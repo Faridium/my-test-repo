@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\bin\Release\net5.0\PWD.Schedule.Application.deps.json
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\bin\Release\net5.0\PWD.Schedule.Application.dll
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\bin\Release\net5.0\ref\PWD.Schedule.Application.dll
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\bin\Release\net5.0\PWD.Schedule.Application.pdb
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\bin\Release\net5.0\PWD.Schedule.Core.dll
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\bin\Release\net5.0\PWD.Schedule.Core.pdb
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\obj\Release\net5.0\PWD.Schedule.Application.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\obj\Release\net5.0\PWD.Schedule.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\obj\Release\net5.0\PWD.Schedule.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\obj\Release\net5.0\PWD.Schedule.Application.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\obj\Release\net5.0\PWD.Schedule.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\obj\Release\net5.0\PWD.Schedule.Application.csproj.CopyComplete
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\obj\Release\net5.0\PWD.Schedule.Application.dll
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\obj\Release\net5.0\ref\PWD.Schedule.Application.dll
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Application\obj\Release\net5.0\PWD.Schedule.Application.pdb

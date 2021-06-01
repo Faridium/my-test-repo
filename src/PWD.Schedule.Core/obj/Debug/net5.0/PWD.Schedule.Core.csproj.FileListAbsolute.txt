@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\bin\Debug\net5.0\PWD.Schedule.Core.deps.json
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\bin\Debug\net5.0\PWD.Schedule.Core.dll
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\bin\Debug\net5.0\ref\PWD.Schedule.Core.dll
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\bin\Debug\net5.0\PWD.Schedule.Core.pdb
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\obj\Debug\net5.0\PWD.Schedule.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\obj\Debug\net5.0\PWD.Schedule.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\obj\Debug\net5.0\PWD.Schedule.Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\obj\Debug\net5.0\PWD.Schedule.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\obj\Debug\net5.0\PWD.Schedule.Core.dll
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\obj\Debug\net5.0\ref\PWD.Schedule.Core.dll
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\obj\Debug\net5.0\PWD.Schedule.Core.pdb
+C:\Users\Administrator\source\repos\PWD.Schedule\src\PWD.Schedule.Core\obj\Debug\net5.0\PWD.Schedule.Core.csprojAssemblyReference.cache
